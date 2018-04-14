@@ -1,2 +1,3 @@
 # hello-world
-just a begininig of a great project
+i am Stan, maybe I am not able to code now
+but i wish i could change the world in the coming future
